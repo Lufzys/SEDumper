@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDumper", "SEDumper\SEDumper.csproj", "{3D1E2D19-8D19-43A6-8CD8-51424E04677A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injector", "Injector\Injector.csproj", "{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A} = {3D1E2D19-8D19-43A6-8CD8-51424E04677A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Debug|x86.ActiveCfg = Debug|x86
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Debug|x86.Build.0 = Debug|x86
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Release|x86.ActiveCfg = Release|x86
+		{3D1E2D19-8D19-43A6-8CD8-51424E04677A}.Release|x86.Build.0 = Release|x86
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Debug|x86.Build.0 = Debug|Any CPU
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Release|x86.ActiveCfg = Release|Any CPU
+		{B2B2C1AD-3583-4F4D-A2FA-7BDF15A270E6}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F5E2F1-9328-4F84-8B8F-0E84445A7F63}
+	EndGlobalSection
+EndGlobal

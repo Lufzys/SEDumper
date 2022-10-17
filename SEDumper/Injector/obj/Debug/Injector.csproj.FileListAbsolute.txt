@@ -1,0 +1,8 @@
+C:\Users\Lufzys\source\repos\SEDumper\Injector\bin\Debug\Injector.exe.config
+C:\Users\Lufzys\source\repos\SEDumper\Injector\bin\Debug\Injector.exe
+C:\Users\Lufzys\source\repos\SEDumper\Injector\bin\Debug\Injector.pdb
+C:\Users\Lufzys\source\repos\SEDumper\Injector\obj\Debug\Injector.csproj.AssemblyReference.cache
+C:\Users\Lufzys\source\repos\SEDumper\Injector\obj\Debug\Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lufzys\source\repos\SEDumper\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+C:\Users\Lufzys\source\repos\SEDumper\Injector\obj\Debug\Injector.exe
+C:\Users\Lufzys\source\repos\SEDumper\Injector\obj\Debug\Injector.pdb
