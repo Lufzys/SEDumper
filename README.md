@@ -4,6 +4,7 @@
 -  [x] Left 4 Dead 2
 -  [x] Team Fortress 2
 -  [x] Counter-Strike Source
+-  [x] Half-Life: Source
 
 # Left 4 Dead 2
 ![alt text](https://github.com//Lufzys/SEDumper/blob/main/l4d2.PNG?raw=true)
